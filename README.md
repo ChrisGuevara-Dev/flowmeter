@@ -7,3 +7,5 @@ The project focuses on developing a flow control system using a YF-S201 flow sen
 ## 3D Model & Implementation
 ![Front](https://github.com/ChrisGuevara-Dev/flowmeter/blob/main/img/flowmeter.jpg?raw=true)
 ![Side](https://github.com/ChrisGuevara-Dev/flowmeter/blob/main/img/2flowmeter.jpg?raw=true)
+![Side](https://github.com/ChrisGuevara-Dev/flowmeter/blob/main/img/Footprint_page-1.jpg?raw=true)
+![Side](https://github.com/ChrisGuevara-Dev/flowmeter/blob/main/img/Implementation.jpg?raw=true)
